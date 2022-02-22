@@ -1,0 +1,5 @@
+favicons/
+*.pyc
+*.exe
+*.bin
+.DS_Store
