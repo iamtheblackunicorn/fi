@@ -1,6 +1,8 @@
-# FI
+# FI :hammer_and_pick:
 
-***A tool to help you generate "favicons" for your website.***
+***A tool to help you generate "favicons" for your website.*** :hammer_and_pick:
+
+![GitHub CI](https://github.com/iamtheblackunicorn/fi/actions/workflows/rust.yml/badge.svg)
 
 ## About :books:
 
@@ -20,7 +22,7 @@ Make sure you have the following installed:
 - 3.) Place the tool and your base image in the same directory.
 - 4.) Run one of these commands according to what you want to do:
 ```bash
-$ python3 iconhelper.py --source mypng.png
+$ python3 fi.py --source mypng.png
 ```
 - 5.) Place the generated `favicons` in your website's `assets` directory.
 - 6.) Enjoy! :)
@@ -30,5 +32,5 @@ $ python3 iconhelper.py --source mypng.png
 If you want to contribute, you are more than welcome to. Just a file a Pull Request and I will review it.
 
 ## Note :scroll:
-- *Fi* by Alexander Abraham :black_heart: a.k.a. *"The Black Unicorn" :unicorn:*
+- *Fi :hammer_and_pick:* by Alexander Abraham :black_heart: a.k.a. *"The Black Unicorn" :unicorn:*
 - Licensed under the MIT license.
