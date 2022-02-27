@@ -2,7 +2,7 @@
 
 ***A tool to help you generate "favicons" for your website.*** :hammer_and_pick:
 
-![GitHub CI](https://github.com/iamtheblackunicorn/fi/actions/workflows/rust.yml/badge.svg)
+![GitHub CI](https://github.com/iamtheblackunicorn/fi/actions/workflows/python.yml/badge.svg)
 
 ## About :books:
 
