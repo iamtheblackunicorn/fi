@@ -47,7 +47,7 @@ def executeCompile(sourceImage):
         for key in dataPool():
             size = int(key)
             new_image = myImage.resize((size, size))
-            newString = dataPool()[key] + '.png'
+            newString = dataPool()[key]
             new_image.save(newString)
     except Exception as error:
         print(str(error))
